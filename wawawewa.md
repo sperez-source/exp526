@@ -1,3 +1,7 @@
-This is the new content for the file `wawawewa.md`.
+# Hello World
 
-Created via connected GitHub tool on branch `borat`.
+```python
+print("Hello, World!")
+```
+
+This is a simple Hello World example in Python.
